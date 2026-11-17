@@ -14,6 +14,6 @@ falta fazer a pagina que tem so um produto, igual ta la no figma - riana
 4º Bimestre: 
 - Arrumar erros na página de login
 - Colocar o css em uma stylesheet só
-- Separar cliente do vendedor
+- Separar cliente do vendedor (geo vai fazer)
 - Adicionar página de finalização da compra
 
